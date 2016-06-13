@@ -1,0 +1,5 @@
+name: DataCord
+version: ${project.version}
+main: ${project.groupId}.${project.artifactId}.DataCordPlugin
+author: Dummyc0m
+prefix: DataCord
